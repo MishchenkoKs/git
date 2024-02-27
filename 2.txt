@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+  Lenovo    1722    1604 pty0     11:43:01 /usr/bin/ps
+  Lenovo    1604    1603 pty0     11:04:08 /usr/bin/bash
+  Lenovo    1603       1 ?        11:04:07 /usr/bin/mintty
